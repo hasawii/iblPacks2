@@ -1,0 +1,75 @@
+{
+    "sources": [
+            {
+            "type": "single",
+            "resource": "custom:teams/a/arcane"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/close_combat"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/divine_rising"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/donut_kingdom"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/femme_fatales"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/hang_10"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/impact"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/nova"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/party_animals"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/rat_tactics"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/riptide"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/serpentine"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/syndicate"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/tavern"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/ultraviolet"
+              },
+            {
+            "type": "single",
+            "resource": "custom:teams/a/deathwish"
+              },
+
+
+
+                        {
+            "type": "single",
+            "resource": "custom:ibl"
+              }
+	]
+}
