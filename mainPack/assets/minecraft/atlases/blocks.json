@@ -64,20 +64,13 @@
             "type": "single",
             "resource": "custom:teams/a/deathwish"
               },
-
-
-
-                        {
-            "type": "single",
-            "resource": "custom:ibl"
-              },
-
-
-
-
             {
             "type": "single",
-            "resource": "custom:images/asher"
+            "resource": "custom:asher"
+              },
+            {
+            "type": "single",
+            "resource": "custom:ibl"
               }
 	]
 }

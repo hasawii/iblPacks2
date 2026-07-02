@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom:images/asher",
-		"particle": "custom:images/asher"
+		"0": "custom:asher",
+		"particle": "custom:asher"
 	},
 	"elements": [
 		{
