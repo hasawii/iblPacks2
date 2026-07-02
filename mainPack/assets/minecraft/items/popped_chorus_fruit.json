@@ -125,14 +125,7 @@
                     "type": "model",
                     "model": "custom:ibl"
                 }
-            },
-            {
-                "threshold": 34,
-                "model": {
-                    "type": "model",
-                    "model": "custom:asher"
-                }
-            }         
+            }       
          ]
     },
 	"oversized_in_gui": true
