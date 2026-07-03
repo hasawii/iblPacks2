@@ -453,15 +453,15 @@
               },
             {
             "type": "single",
-            "resource": "custom:images/nominees/a/utility-1"
+            "resource": "custom:images/nominees/b/utility-1"
               },
             {
             "type": "single",
-            "resource": "custom:images/nominees/a/utility-2"
+            "resource": "custom:images/nominees/b/utility-2"
               },
             {
             "type": "single",
-            "resource": "custom:images/nominees/a/utility-3"
+            "resource": "custom:images/nominees/b/utility-3"
               }
 	]
 }
