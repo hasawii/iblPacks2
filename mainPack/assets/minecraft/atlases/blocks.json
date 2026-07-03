@@ -71,6 +71,397 @@
             {
             "type": "single",
             "resource": "custom:ibl"
-              }
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/baiter"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/branding"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/clip"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/clutch"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/filler"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/first-team"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/game"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/healer"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/improved"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/melee"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/mvp"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/passionate"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/ranged"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/rookie"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/second-team"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/stat"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/underrated"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/upgrade"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/a/utility"
+              },
+
+
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/baiter"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/branding"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/clip"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/clutch"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/filler"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/first-team"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/game"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/healer"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/improved"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/melee"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/mvp"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/passionate"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/ranged"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/rookie"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/second-team"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/stat"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/underrated"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/b/utility"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/misc/caster"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/misc/host"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/misc/owner"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/misc/staff"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/misc/streamer"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/winners/misc/stats"
+              },
+
+
+
+
+
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/clutch-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/clutch-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/clutch-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/filler-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/filler-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/filler-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/healer-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/healer-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/healer-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/healer-4"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/melee-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/melee-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/melee-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/melee-4"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/ranged-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/ranged-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/ranged-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/ranged-4"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/rookie-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/rookie-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/rookie-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/upgrade-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/upgrade-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/upgrade-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/upgrade-4"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/utility-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/utility-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/utility-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/utility-4"
+              },
+
+
+
+
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/clutch-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/clutch-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/clutch-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/filler-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/filler-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/filler-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/healer-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/healer-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/healer-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/healer-4"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/melee-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/melee-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/melee-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/melee-4"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/ranged-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/ranged-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/ranged-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/rookie-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/rookie-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/b/rookie-3"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/utility-1"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/utility-2"
+              },
+            {
+            "type": "single",
+            "resource": "custom:images/nominees/a/utility-3"
+              },
 	]
 }
